@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Website",
+    "category": "Web",
+    "icon": "💻",
+    "link": "https://diegoc-pimentel.github.io/password-generator/"
+  },
+  {
+    "name": "Calculator",
+    "category": "App",
+    "icon": "🧮",
+    "link": "https://diegoc-pimentel.github.io/calculator-js/"
+  },
+  {
+    "name": "Weather App",
+    "category": "App",
+    "icon": "☁️",
+    "link": "https://github.com/you/weather-app"
+  },
+  {
+    "name": "Portfolio",
+    "category": "Web",
+    "icon": "🌐",
+    "link": "https://diegoc-pimentel.github.io/portfolio/"
+  },
+  {
+    "name": "Task Manager",
+    "category": "App",
+    "icon": "✅",
+    "link": "https://github.com/you/task-manager"
+  }
+]
