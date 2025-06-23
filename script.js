@@ -46,6 +46,7 @@ filterBtn.addEventListener('click', () => {
     renderMenu(desserts);
 });
 
+//DARK-MODE
 toggleThemeBtn.addEventListener('click', () => {
     document.body.classList.toggle('dark-mode');
 });

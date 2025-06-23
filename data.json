@@ -1,32 +1,50 @@
 [
   {
-    "name": "Website",
-    "category": "Web",
-    "icon": "💻",
-    "link": "https://diegoc-pimentel.github.io/password-generator/"
+    "name": "Array",
+    "category": "Core",
+    "icon": "🗂️",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array"
   },
   {
-    "name": "Calculator",
-    "category": "App",
-    "icon": "🧮",
-    "link": "https://diegoc-pimentel.github.io/calculator-js/"
+    "name": "Push",
+    "category": "Method",
+    "icon": "📌",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/push"
   },
   {
-    "name": "Weather App",
-    "category": "App",
-    "icon": "☁️",
-    "link": "https://github.com/you/weather-app"
+    "name": "Pop",
+    "category": "Method",
+    "icon": "🎈",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/pop"
   },
   {
-    "name": "Portfolio",
-    "category": "Web",
-    "icon": "🌐",
-    "link": "https://diegoc-pimentel.github.io/portfolio/"
+    "name": "Filter",
+    "category": "Method",
+    "icon": "🔍",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter"
   },
   {
-    "name": "Task Manager",
-    "category": "App",
-    "icon": "✅",
-    "link": "https://github.com/you/task-manager"
+    "name": "Map",
+    "category": "Method",
+    "icon": "🗺️",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map"
+  },
+  {
+    "name": "Reduce",
+    "category": "Method",
+    "icon": "➗",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce"
+  },
+  {
+    "name": "Promise",
+    "category": "Async",
+    "icon": "⏳",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise"
+  },
+  {
+    "name": "Async/Await",
+    "category": "Async",
+    "icon": "🕰️",
+    "link": "https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Promises"
   }
 ]
